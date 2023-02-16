@@ -19,5 +19,5 @@ Provide Conservation Sciences graduate students with leadership and skills devel
 
 <br><br>
 <div id="pictures" align="center">
-    <img src="/images/skok.jpg" style="width:48%; margin: 0em 0em 0em 0em;">
+    <img src="/images/skok.jpg" style="width:100%">
 </div> 
