@@ -3,4 +3,7 @@ main:
 
   - title: "Executive committee"
     url: /exec/
+    
+  - title: "Posts & updates"
+    url: /posts/
 
