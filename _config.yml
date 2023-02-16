@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "CSAGGS"
-  avatar           : "umn_pic.jpg"
-  bio              : "CSAGS serves ConSci students in UMN's FWCB Department"
+  name             : "Conservation Sciences Association of Graduate Students "
+  avatar           : "consci.jpg"
+  bio              : "CSAGS serves students in the Conservation Sciences Program in UMN's, <a style='color: black;' href='http://fwcb.cfans.umn.edu/'>Dept. Fisheries, Wildlife, & Conservation Biology</a>"
   location         : "University of Minnesota"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
