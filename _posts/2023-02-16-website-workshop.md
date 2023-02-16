@@ -12,5 +12,5 @@ The first event was held on February 15th and featured Sam Safran, who led the a
 
 For anyone who missed the workshop, you can still find Sam's resources and step-by-step instructions in the document below. Please reach out to him if you were unable to attend but would like help with creating your own page.
 
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vSN-IPtDCwTtZGvGiokas_vrecxpXNyX4qYKRGQwb0RP-8KuN1CPj459z33X6pfftdtk0LZuoNkbnJd/pub?embedded=true" width="400" height="500px"></iframe>
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vSN-IPtDCwTtZGvGiokas_vrecxpXNyX4qYKRGQwb0RP-8KuN1CPj459z33X6pfftdtk0LZuoNkbnJd/pub?embedded=true" style="width:95%"></iframe>
 

@@ -17,7 +17,7 @@ Provide Conservation Sciences graduate students with leadership and skills devel
 * Serve as advocates for all Conservation Sciences graduate students to Conservation Sciences faculty and administration in the Fisheries, Wildlife, and Conservation Biology Department, and to college and University level faculty and administration, as appropriate.  
 * Provide a structure and mechanism for sharing information, acquiring, storing, and spending funds, and organizing such events and activities as the Conservation Sciences seminar series, annual fundraiser, peer-mentor-match, and similar efforts.
 
-<br><br>
+<br>
 <div id="pictures" align="center">
-    <img src="/images/skok.jpg" style="width:100%">
+    <img src="/images/skok.jpg" style="width:85%">
 </div> 
