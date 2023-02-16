@@ -10,8 +10,8 @@ CSAGS is excited to announce a return of the "Lunch & Learn" series. For those t
 
 The first event was held on February 15th and featured Sam Safran, who led the assembled students and faculty on how to build free academic websites with GitHub pages. As demo, the group created this very site for CSAGS!
 
-For anyone who missed the workshop, you can still find Sam's resources and step-by-step instructions in the document below. Please reach out to him if you were unable to attend but would like help with creating your own page.
+For anyone who missed the workshop, you can still find Sam's resources and step-by-step instructions [here](https://docs.google.com/document/d/1tAXi0MI4bHwEcl580hwLMn6Rw8JIhpCHEV0mRPaqadQ/edit?usp=share_link) and embedded below. Please reach out to him if you were unable to attend but would like help with creating your own page.
 
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vSN-IPtDCwTtZGvGiokas_vrecxpXNyX4qYKRGQwb0RP-8KuN1CPj459z33X6pfftdtk0LZuoNkbnJd/pub?embedded=true" style="width:95%; height: 90%">
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vSN-IPtDCwTtZGvGiokas_vrecxpXNyX4qYKRGQwb0RP-8KuN1CPj459z33X6pfftdtk0LZuoNkbnJd/pub?embedded=true" height="100%" width="100%" style="display: block;">
 
 </iframe>
